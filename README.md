@@ -1,0 +1,2 @@
+# dotnext-fscheck
+FsCheck examples
